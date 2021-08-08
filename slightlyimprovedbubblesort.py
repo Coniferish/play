@@ -3,7 +3,10 @@
 
 """
 bubble_sort.py : classic bubble sort. 
-Time complexity  O(n**2)
+Time complexity:
+Worst: O(n**2)
+Best: O(n)
+Space Complexity: O(1)
 """
 
 __author__ = "John Jennings"
