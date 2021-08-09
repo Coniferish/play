@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-bubble_sort.py : classic bubble sort. 
+slightlyimprovedbubblesort.py : classic bubble sort. 
 Time complexity:
 Worst: O(n**2)
 Best: O(n)
